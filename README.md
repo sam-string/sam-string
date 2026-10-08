@@ -51,7 +51,7 @@ fixing them, and occasionally pretending the bug was intentional.
 
 ### ✦ Currently interested in
 
-```text
+text
 ⌁ Data Science
 ⌁ Machine Learning
 ⌁ Frontend Development
