@@ -1,54 +1,119 @@
-<div align="center">
+╭────────────────────────────────────────────────────╮
+│  SAM://WORLD                         ● ONLINE       │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│       ✦        .       ✦          .                │
+│              ╭──────────────╮                      │
+│              │   ◉_◉  ♡     │     ✧               │
+│              │  /|▣|\       │                      │
+│              │   / \        │       ✦              │
+│              ╰──────────────╯                      │
+│                                                    │
+│        SYSTEM BOOT COMPLETE                       │
+│        USER: samriddhi                            │
+│        MODE: BUILDING THINGS                      │
+│                                                    │
+│        [ ENTER THE WORLD → ]                      │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+             ✦
+        .          ✦
 
+             💻
+          ╭──────╮
+       ♡  │ •ᴗ• │  ♡
+          │ /▣\ │
+          ╰──────╯
+             /\
+            /  \
 
-# ✦ Hey, I'm Samriddhi ✦
+       "currently compiling..."
+┌─ SAM://IDENTITY ─────────────────────────────┐
 
-### CSE Student • Data Science • Building Things 🌷
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=hello%2C+world!+%E2%9C%BF;I'm+Samriddhi+%E2%99%A1;welcome+to+my+little+corner+of+GitHub">
+  NAME       → Samriddhi
+  ROLE       → CSE Student / Builder
+  SPECIALTY  → Data + AI + Web
+  STATUS     → learning.exe
+  LOCATION   → somewhere between bugs & coffee
 
-</div>
+  currently running:
 
----
+  ├── DSA.exe
+  ├── React.exe
+  ├── ML.exe
+  └── "why-is-this-not-working.exe"
 
-### 🌱 currently
+└──────────────────────────────────────────────┘
+        INSTALLED MODULES
 
-- 🎓 CSE student at SRMIST
-- 📊 exploring Data Science & Machine Learning
-- 💻 learning DSA + Web Development
-- 🚀 Building projects that are probably bigger than my free time
+  ◈ PYTHON       █████████░  90%
+  ◈ C++          ████████░░  80%
+  ◈ JAVASCRIPT   ██████░░░░  60%
+  ◈ REACT        █████░░░░░  50%
+  ◈ ML           ███████░░░  70%
+  ◈ DSA          ██████░░░░  60%
 
-### 💻 Tech I use
+  ┌──────────────────┐
+│ 🌾 LEVEL 01      │
+│                  │
+│ KISANADVISOR     │
+│                  │
+│ ML × Agriculture │
+│                  │
+│ [ ENTER QUEST ]  │
+└──────────────────┘
 
-`C++` `Java` `JavaScript`  
-`HTML` `CSS` `React` `Pandas` `NumPy` `Scikit-learn`
+┌──────────────────┐
+│ ⚡ LEVEL 02      │
+│                  │
+│ URJA-NITI        │
+│                  │
+│ AI × Energy      │
+│                  │
+│ [ ENTER QUEST ]  │
+└──────────────────┘
 
-### 🌷 Featured Projects
+┌──────────────────┐
+│ 🤖 LEVEL 03      │
+│                  │
+│ CAREERPREDICTAI  │
+│                  │
+│ ML × Prediction  │
+│                  │
+│ [ ENTER QUEST ]  │
+└──────────────────┘
 
-| Project | What it does |
-|---|---|
-| 🌾 **KisanAdvisor** | Agricultural price & mandi decision support |
-| ⚡ **URJA-NITI** | Clean energy planning & analysis |
-| 🎮 **Mini Web Projects** | Small HTML, CSS & JavaScript projects |
+╭─────────────────────────────────────╮
+│                                     │
+│  🐛 "works on my machine"           │
+│  🐛 missing semicolon               │
+│  🐛 CSS doing its own thing         │
+│  🐛 one suspicious infinite loop    │
+│                                     │
+│  bugs defeated:  ∞                  │
+│                                     │
+╰─────────────────────────────────────╯
 
-### ✿ a little about me
+                 SAM'S DESK
 
-> learning, building, breaking things  
-> and then pretending the bug was intentional ♡
+       💻              🎧
+     ┌─────┐          ♪
+     │ >_  │      ☕
+     └─────┘          🌱
 
----
+       coding     ─────────  62%
+       caffeine   ─────────  91%
+       sleep      ──        14%
+       motivation ────────  76%
 
-<div align="center">
-
-### let's connect ✦
-♡ ─────────────── ♡
-      coding...
-♡ ─────────────── ♡
-
-<div align="center">
-
-♡ ✦ 🌷 ☕ 💻
-
-thanks for stopping by ✿
-</div> ```
-
-</div>
+╭────────────────────────────────────────╮
+│                                        │
+│       CONNECTION TERMINATED ♡          │
+│                                        │
+│       thanks for entering              │
+│       sam://world                      │
+│                                        │
+│       ── see you in the next commit ── │
+│                                        │
+│                ✦  ♡  ✦                │
+╰────────────────────────────────────────╯
