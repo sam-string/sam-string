@@ -1,119 +1,35 @@
-╭────────────────────────────────────────────────────╮
-│  SAM://WORLD                         ● ONLINE       │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│       ✦        .       ✦          .                │
-│              ╭──────────────╮                      │
-│              │   ◉_◉  ♡     │     ✧               │
-│              │  /|▣|\       │                      │
-│              │   / \        │       ✦              │
-│              ╰──────────────╯                      │
-│                                                    │
-│        SYSTEM BOOT COMPLETE                       │
-│        USER: samriddhi                            │
-│        MODE: BUILDING THINGS                      │
-│                                                    │
-│        [ ENTER THE WORLD → ]                      │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-             ✦
-        .          ✦
+<div align="center">
 
-             💻
-          ╭──────╮
-       ♡  │ •ᴗ• │  ♡
-          │ /▣\ │
-          ╰──────╯
-             /\
-            /  \
+<img src="./assets/hero.png" width="100%" />
 
-       "currently compiling..."
-┌─ SAM://IDENTITY ─────────────────────────────┐
+<br>
 
-  NAME       → Samriddhi
-  ROLE       → CSE Student / Builder
-  SPECIALTY  → Data + AI + Web
-  STATUS     → learning.exe
-  LOCATION   → somewhere between bugs & coffee
+# `sam-string`
 
-  currently running:
+### `// code · learn · build · grow`
 
-  ├── DSA.exe
-  ├── React.exe
-  ├── ML.exe
-  └── "why-is-this-not-working.exe"
+[![GitHub](https://img.shields.io/badge/GitHub-sam--string-0d1026?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sam-string)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samriddhi%20Pandey-0d1026?style=for-the-badge&logo=linkedin&logoColor=9b7cff)](https://www.linkedin.com/)
 
-└──────────────────────────────────────────────┘
-        INSTALLED MODULES
+</div>
 
-  ◈ PYTHON       █████████░  90%
-  ◈ C++          ████████░░  80%
-  ◈ JAVASCRIPT   ██████░░░░  60%
-  ◈ REACT        █████░░░░░  50%
-  ◈ ML           ███████░░░  70%
-  ◈ DSA          ██████░░░░  60%
+---
 
-  ┌──────────────────┐
-│ 🌾 LEVEL 01      │
-│                  │
-│ KISANADVISOR     │
-│                  │
-│ ML × Agriculture │
-│                  │
-│ [ ENTER QUEST ]  │
-└──────────────────┘
+## `~/about`
 
-┌──────────────────┐
-│ ⚡ LEVEL 02      │
-│                  │
-│ URJA-NITI        │
-│                  │
-│ AI × Energy      │
-│                  │
-│ [ ENTER QUEST ]  │
-└──────────────────┘
+```text
+> whoami
 
-┌──────────────────┐
-│ 🤖 LEVEL 03      │
-│                  │
-│ CAREERPREDICTAI  │
-│                  │
-│ ML × Prediction  │
-│                  │
-│ [ ENTER QUEST ]  │
-└──────────────────┘
+Samriddhi Pandey
+CSE (Data Science) @ SRMIST
+CGPA: 9.8 / 10.0
 
-╭─────────────────────────────────────╮
-│                                     │
-│  🐛 "works on my machine"           │
-│  🐛 missing semicolon               │
-│  🐛 CSS doing its own thing         │
-│  🐛 one suspicious infinite loop    │
-│                                     │
-│  bugs defeated:  ∞                  │
-│                                     │
-╰─────────────────────────────────────╯
+A developer, data enthusiast and curious learner
+who enjoys turning ideas into real-world projects.
 
-                 SAM'S DESK
-
-       💻              🎧
-     ┌─────┐          ♪
-     │ >_  │      ☕
-     └─────┘          🌱
-
-       coding     ─────────  62%
-       caffeine   ─────────  91%
-       sleep      ──        14%
-       motivation ────────  76%
-
-╭────────────────────────────────────────╮
-│                                        │
-│       CONNECTION TERMINATED ♡          │
-│                                        │
-│       thanks for entering              │
-│       sam://world                      │
-│                                        │
-│       ── see you in the next commit ── │
-│                                        │
-│                ✦  ♡  ✦                │
-╰────────────────────────────────────────╯
+Currently exploring:
+→ Data Science
+→ Machine Learning
+→ DSA
+→ Web Development
+→ Building things that actually work
