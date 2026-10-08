@@ -47,6 +47,8 @@ I enjoy learning by building — whether it's a small JavaScript game, a data an
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=FF9FCB&center=true&vCenter=true&width=800&height=50&lines=Why+does+the+bug+disappear+when+I+show+someone%3F;I+was+just+testing+that.;It+worked+five+minutes+ago.;Documentation%3F+I+thought+Google+was+documentation.;One+more+feature...+%E2%80%94+famous+last+words." />
 
+<div align="center"> <a href="https://github.com/sam-string"> <img src="https://img.shields.io/badge/GitHub-sam--string-16142B?style=for-the-badge&logo=github&logoColor=B9A7FF"> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-B9A7FF?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:Samriddhipandey496@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-FF9FCB?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+
 ## 🐈 MY TINY TECH ASSISTANT
 
 ```text
