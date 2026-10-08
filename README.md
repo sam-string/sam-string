@@ -58,3 +58,26 @@ fixing them, and occasionally pretending the bug was intentional.
 ⌁ DSA & Problem Solving
 ⌁ AI-powered applications
 ⌁ Building weird little projects
+
+✦ My current philosophy
+
+"If it works, don't touch it.
+If it doesn't work... touch everything."
+
+</td> <td width="40%" align="center"> <img src="assets/kitty.gif" width="220">
+
+<br><br>
+╭────────────────────╮
+│  STATUS: ONLINE    │
+│  MOOD: CAFFEINATED │
+│  BUGS: MANY        │
+│  FIXED: eventually │
+╰────────────────────╯
+<p align="center"> <img src="assets/kitty.gif" width="160"> </p> <p align="center">
+"I don't have imposter syndrome."
+"I have compiler errors."
+</p> <p align="center">
+
+☕ coffee → 💻 code → 🐛 bug → 😭 debug → ✨ somehow works
+
+</p> <br>
