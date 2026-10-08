@@ -1,40 +1,60 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                    ✦ ANIMATED HEADER ✦                   -->
+<!-- ========================================================= -->
 
-<img src="./assets/hero.gif" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1026,35:6C5CE7,70:FF8FC7,100:8BE9FD&height=180&section=header&animation=twinkling" width="100%"/>
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=900&color=B9A7FF&center=true&vCenter=true&width=650&lines=CSE+%7C+DATA+SCIENCE+%7C+AI+%7C+WEB;building+things+that+make+me+curious;learning+something+new+every+day;welcome+to+sam-string+%E2%9C%A6" />
+<!-- ========================================================= -->
+<!--                    ✦ NAME ANIMATION ✦                    -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2800&pause=900&color=B9A7FF&center=true&vCenter=true&width=700&height=90&lines=YOUR+NAME;aka+the+girl+who+debugs+at+2AM"
+    alt="Animated Name"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=8BE9FD&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+Student+%7C+Data+%26+Code;Building+things+I+probably+shouldn't+be+able+to;currently+turning+coffee+into+commits+%E2%98%95"
+    alt="Animated Introduction"
+  />
+</p>
 
 <br>
-
-`// code` &nbsp;&nbsp; `// learn` &nbsp;&nbsp; `// build` &nbsp;&nbsp; `// grow`
-
-</div>
 
 ---
 
-<div align="center">
+<!-- ========================================================= -->
+<!--                       ✦ WHO AM I ✦                        -->
+<!-- ========================================================= -->
 
-## `✦ 01 / whoami`
+## `whoami.exe`
 
-</div>
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### Hey, I'm **SAMRIDDHI** 👾
+
+I'm a **Computer Science student specializing in Data Science**, 
+who enjoys turning random ideas into actual working projects.
+
+I like understanding **how things work**, breaking them,
+fixing them, and occasionally pretending the bug was intentional.
+
+### ✦ Currently interested in
 
 ```text
-╭────────────────────────────────────────────────────╮
-
-  Hello, I'm Samriddhi.
-
-  CSE (Data Science) student @ SRMIST
-  CGPA → 9.8 / 10.0
-
-  I like building things at the intersection of
-  data, AI and the web.
-
-  currently:
-  ├── learning DSA
-  ├── exploring Machine Learning
-  ├── building web projects
-  └── turning random ideas into actual projects
-
-╰────────────────────────────────────────────────────╯
+⌁ Data Science
+⌁ Machine Learning
+⌁ Frontend Development
+⌁ DSA & Problem Solving
+⌁ AI-powered applications
+⌁ Building weird little projects
