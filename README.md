@@ -1,35 +1,40 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" />
+<img src="./assets/hero.gif" width="100%" />
 
 <br>
 
-# `sam-string`
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=900&color=B9A7FF&center=true&vCenter=true&width=650&lines=CSE+%7C+DATA+SCIENCE+%7C+AI+%7C+WEB;building+things+that+make+me+curious;learning+something+new+every+day;welcome+to+sam-string+%E2%9C%A6" />
 
-### `// code · learn · build · grow`
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sam--string-0d1026?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sam-string)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samriddhi%20Pandey-0d1026?style=for-the-badge&logo=linkedin&logoColor=9b7cff)](https://www.linkedin.com/)
+`// code` &nbsp;&nbsp; `// learn` &nbsp;&nbsp; `// build` &nbsp;&nbsp; `// grow`
 
 </div>
 
 ---
 
-## `~/about`
+<div align="center">
+
+## `✦ 01 / whoami`
+
+</div>
 
 ```text
-> whoami
+╭────────────────────────────────────────────────────╮
 
-Samriddhi Pandey
-CSE (Data Science) @ SRMIST
-CGPA: 9.8 / 10.0
+  Hello, I'm Samriddhi.
 
-A developer, data enthusiast and curious learner
-who enjoys turning ideas into real-world projects.
+  CSE (Data Science) student @ SRMIST
+  CGPA → 9.8 / 10.0
 
-Currently exploring:
-→ Data Science
-→ Machine Learning
-→ DSA
-→ Web Development
-→ Building things that actually work
+  I like building things at the intersection of
+  data, AI and the web.
+
+  currently:
+  ├── learning DSA
+  ├── exploring Machine Learning
+  ├── building web projects
+  └── turning random ideas into actual projects
+
+╰────────────────────────────────────────────────────╯
