@@ -1,5 +1,5 @@
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam-string&show_icons=true&hide_border=true)
+
 
 # ✦ Hey, I'm Samriddhi ✦
 
