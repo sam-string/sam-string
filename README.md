@@ -41,6 +41,8 @@ I enjoy learning by building — whether it's a small JavaScript game, a data an
 
 `DSA` `C++` `JavaScript` `React` `Machine Learning` `Data Analysis`
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sam-string&show_icons=true&hide_border=true&bg_color=0D1026&title_color=B9A7FF&icon_color=FF9FCB&text_color=E8E5F2" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-string&layout=compact&hide_border=true&bg_color=0D1026&title_color=B9A7FF&text_color=E8E5F2" height="170"> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=sam-string&theme=tokyonight&hide_border=true&background=0D1026&ring=B9A7FF&fire=FF9FCB&currStreakLabel=8BE9FD" width="70%"> </div>
+
 ---
 
 ## 🐈 MY TINY TECH ASSISTANT
