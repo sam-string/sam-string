@@ -81,3 +81,26 @@ If it doesn't work... touch everything."
 ☕ coffee → 💻 code → 🐛 bug → 😭 debug → ✨ somehow works
 
 </p> <br>
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%23FF9FCB&color_dots=%230D1026,%23B9A7FF,%239B7CFF,%23FF9FCB,%238BE9FD
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
